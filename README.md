@@ -40,7 +40,7 @@ To verify authenticity, follow these steps:
  1. Go to the VirusTotal website (https://www.virustotal.com/)
     <img src="./3.png" width="100%" height="auto">
     
- 2. Choose the** File** option.
+ 2. Choose the **file** option.
     <img src="./4.png" width="100%" height="auto">
 
 3. Drag and drop the downloaded **Oracle Virtualbox Extension Pack file** (Oracle_VirtualBox_Extension_Pack-7.1.8.vbox-extpack) in this case, but your file may have a different version number) into the designated area or choose** Select a file** and upload the file from your computer.
@@ -48,10 +48,16 @@ To verify authenticity, follow these steps:
 4. VirusTotal will scan the file and display the results, indicating if any antivirus engines detected potential threats within the file.
     <img src="./5.png" width="100%" height="auto">
 
+5. Compare the encrypted value produced by the virus scanner with the one listed on the website.
+
+**Security
+
+The SHA256 checksum for Oracle_VirtualBox_Extension_Pack-7.1.8-168469.vbox-extpack is: 912586a3a1e9285f9df264f7999e6fffc0b8a42f2e013dd898a86f7ed3975d37
+
+A matching number means that the file has not been tampered with.**
 
 
 
 
 
 
-<img src="./1.png" width="100%" height="auto">
