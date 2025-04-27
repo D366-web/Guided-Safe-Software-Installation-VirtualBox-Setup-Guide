@@ -52,8 +52,8 @@ To verify authenticity, follow these steps:
 
 **Security**
 
-**The SHA256 checksum for Oracle_VirtualBox_Extension_Pack-7.1.8-168469.vbox-extpack is: 912586a3a1e9285f9df264f7999e6fffc0b8a42f2e013dd898a86f7ed3975d37
-**
+**The SHA256 checksum for Oracle_VirtualBox_Extension_Pack-7.1.8-168469.vbox-extpack is: 912586a3a1e9285f9df264f7999e6fffc0b8a42f2e013dd898a86f7ed3975d37**
+
 **A matching number means that the file has not been tampered with.**
 
 
