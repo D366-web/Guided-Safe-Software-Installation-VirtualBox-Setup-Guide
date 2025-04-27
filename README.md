@@ -12,8 +12,7 @@ The main goal of this project is to:
 
 2. Ensure system integrity and security by following best practices for download verification and installation.
 
-**Step 1: Choosing a trustworthy source
-**
+**Step 1: Choosing a trustworthy source**
 
 It's crucial to download software only from trustworthy sources to avoid malware and other security risks. Here are some tips for choosing a safe download location:
  1. **Download from the official website of the software developer**. Look for the developer's website address on the Oracle Virtualbox website. The download location is 
