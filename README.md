@@ -66,19 +66,27 @@ To verify authenticity, follow these steps:
 
  3. Once the download is complete, open the file and click **Next.**
     
-  <img src="./9.png" width="100%" height="auto">
+ <img src="./9.png" width="100%" height="auto">
  
  4. Read the license agreement carefully. Make sure you understand the terms and conditions before agreeing. Select **Next** to proceed.
     
-    <img src="./10.png" width="100%" height="auto">
+ <img src="./10.png" width="100%" height="auto">
       
 5. Pay attention to the installation directory. Choose a suitable location on your computer, such as your default Programs folder.
    
-   <img src="./11.png" width="100%" height="auto">
+<img src="./11.png" width="100%" height="auto">
 
 6. Click on **Next** and select **Yes** to install
    
-   <img src="./12.png" width="100%" height="auto">
+<img src="./12.png" width="100%" height="auto">
+
+
+**Conclusion**
+
+Following these steps can significantly reduce the risk of installing malicious software and protecting your computer. It is important to always source from safe locations when downloading programs and to ensure that you are not inadvertently installing some hidden malware. It can also help to verify the authenticity signature and never install more items with greater permissions than what a user requires to execute tasks successfully.
+
+
+
    
       
    
