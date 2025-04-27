@@ -43,12 +43,14 @@ To verify authenticity, follow these steps:
  2. Choose the **file** option.
  <img src="./4.png" width="100%" height="auto">
 
-3. Drag and drop the downloaded **Oracle Virtualbox Extension Pack file** (Oracle_VirtualBox_Extension_Pack-7.1.8.vbox-extpack) in this case, but your file may have a different version number) into the designated area or choose** Select a file** and upload the file from your computer.
+ 3. Drag and drop the downloaded **Oracle Virtualbox Extension Pack file** (Oracle_VirtualBox_Extension_Pack-7.1.8.vbox-extpack) in this case, but your file may have a different version 
+ number) into the designated area or choose** Select a file** and upload the file from your computer.
 
 4. VirusTotal will scan the file and display the results, indicating if any antivirus engines detected potential threats within the file
 <img src="./5.png" width="100%" height="auto">
 
 6. Compare the encrypted value produced by the virus scanner with the one listed on the website.
+<img src="./7.png" width="100%" height="auto">
 
 **Security**
 
@@ -56,8 +58,15 @@ To verify authenticity, follow these steps:
 
 **A matching number means that the file has not been tampered with.**
 
+Step 3: Customizing installation setting
+ 1. Click on the preferred OS you want to be installed
+ <img src="./8.png" width="100%" height="auto">
 
-
+ Once the download is complete, open the file and click **Next.**
+  <img src="./9.png" width="100%" height="auto">
+ 
+ 2. Read the license agreement carefully. Make sure you understand the terms and conditions before agreeing. Select **Next** to proceed.
+ 
 
 
 
